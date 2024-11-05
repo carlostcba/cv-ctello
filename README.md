@@ -1,4 +1,4 @@
-![Carlos Facundo Tello](img/ctello.png)
+<img src="images/tu_foto.jpg" alt="Carlos Facundo Tello" width="200"/>
 
 # Carlos Facundo Tello  
 **Capital Federal - Caballito**  
