@@ -1,3 +1,4 @@
+![Carlos Facundo Tello](img/ctello.png)
 
 # Carlos Facundo Tello  
 **Capital Federal - Caballito**  
