@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>Carlos Facundo Tello</h1>
-  <img src="img/ctello.png" alt="Carlos Facundo Tello" width="150" style="float: right;"/>
+  <img src="img/ctello.png" alt="Carlos Facundo Tello" width="120" style="float: right;"/>
 </div>
 
 **Capital Federal - Caballito**  
