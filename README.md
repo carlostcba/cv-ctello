@@ -2,6 +2,8 @@
   <h1>Carlos Facundo Tello</h1>
   <img src="img/ctello.png" alt="Carlos Facundo Tello" width="150" style="float: right;"/>
 </div>
+**Capital Federal - Caballito**  
+**carlostellocba@gmail.com | +54-1161393657**  
 
 ## Perfil Profesional
 
