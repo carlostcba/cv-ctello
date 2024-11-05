@@ -58,7 +58,7 @@ Administrador de Redes y Sistemas con título de Técnico Superior en Soporte de
 - Responsable de la gestión de respaldos, servidores de correo y archivos, además del monitoreo y soporte de aplicaciones internas.
 
 ### Administrador de Redes  
-**ST-NET | Enero 2016 - Febrero 2019**  
+**ST-NET | Enero 2017 - Febrero 2019**  
 - Soporte IT en concesionarios, configuración de redes VPN, telefonía IP y firewalls.
 - Implementación de redes LAN/WiFi, instalación y configuración de cámaras de seguridad y CCTV.
 
