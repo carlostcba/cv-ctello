@@ -56,18 +56,32 @@ Administrador de Redes y Sistemas con título de Técnico Superior en Soporte de
 
 ### Administrador de Redes  
 **ST-NET | Enero 2016 - Febrero 2018**  
-- Implementación de infraestructura de redes en concesionarios, soporte de sistemas operativos y configuración de firewalls y VPN.
-- Mantenimiento de servidores físicos y gestión de sistemas de cámaras de seguridad.
+- Soporte IT en concesionarios, configuración de redes VPN, telefonía IP y firewalls.
+- Implementación de redes LAN/WiFi, instalación y configuración de cámaras de seguridad y CCTV.
 
 ### Técnico Electrónico  
 **Simicro SA | Marzo 2014 - Marzo 2016**  
-- Reparación de sistemas de videovigilancia (DVRs, cámaras IP/Analógicas) y soporte a infraestructuras de grabación y monitoreo.
+- Reparación de DVRs, cámaras IP y análogas, mantenimiento de servidores de grabación y monitoreo.
+- Desarrollo de planos y diagramas, capacitación en sistemas de CCTV, alarmas y control de acceso.
 
 ### Soporte IT  
 **Nic Publicidad SRL | Enero 2014 - Enero 2020**  
-- Instalación y mantenimiento de infraestructura de redes, sistemas de CCTV y servidores de alarmas, brindando soporte en sistemas de seguridad.
+- Instalación y mantenimiento de sistemas de alarmas, centrales telefónicas, redes y CCTV.
+- Soporte técnico en software y hardware para Windows y Mac.
+
+### Técnico en Electrónica  
+**Service Mx | Abril 2011 - Diciembre 2013**  
+- Reparación de hardware y software en dispositivos (TV, audio, celulares) y soporte a domicilio.
 
 ### Asistente de Soporte Técnico  
 **Oliviterra SRL | Enero 2010 - Enero 2011**  
-- Soporte en diseño web, configuración de redes y mantenimiento de hardware/software de infraestructura.
+- Soporte en diseño gráfico y web, encargado de mantenimiento de software y hardware.
+
+### Técnico Informático  
+**Cyber Wars | Agosto 2009 - Abril 2010**  
+- Instalación y mantenimiento de redes, reparación de software y hardware en equipos de PC.
+
+### Soporte TI  
+**Cyber Ghost | Enero 2007 - Enero 2009**  
+- Operación de red, configuración de routers y puntos de acceso, mantenimiento e instalación de software y hardware.
 
