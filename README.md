@@ -6,7 +6,7 @@
 **Capital Federal - Caballito**  
 **carlostellocba@gmail.com | +54-1161393657**  
 
-[Ver Título Técnico Superior en Soporte de Infraestructura de Tecnologías de la Información](img/titulo_istea.pdf)
+[Ver Título Técnico Superior en Soporte de Infraestructuras](img/titulo_istea.pdf)
 
 ## Perfil Profesional
 
