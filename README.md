@@ -8,6 +8,8 @@
 
 [Ver Título Técnico Superior en Soporte de Infraestructuras](img/titulo_istea.pdf)
 
+[CV Formato PDF](img/CV_Carlos_Facundo_Tello_RC.pdf)
+
 ## Perfil Profesional
 
 Administrador de Redes y Sistemas con título de Técnico Superior en Soporte de Infraestructura de Tecnologías de la Información y sólida experiencia en administración de servidores físicos y virtuales, redes y seguridad en entornos corporativos. Especialista en Google Workspace, virtualización, redes de comunicación seguras y buenas prácticas de respaldo y monitoreo. Mi carrera se enfoca en optimizar infraestructuras de IT con prácticas de seguridad avanzada y automatización.
