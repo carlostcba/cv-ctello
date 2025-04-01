@@ -21,7 +21,6 @@ Administrador de Redes y Sistemas con título de Técnico Superior en Soporte de
 - **Técnico Superior en Soporte de Infraestructura de Tecnologías de la Información**  
   ISTEA (Instituto Superior Tecnológico Empresarial Argentino)  
   **Fecha de egreso:** 11 de julio de 2024  
-  **Promedio General:** 7.63  
   **Validez Nacional:** RM-2021-2486-APN-ME  
 
 - **Secundario**: CENS 453 | Marzo 2014 - Diciembre 2015  
@@ -43,6 +42,7 @@ Administrador de Redes y Sistemas con título de Técnico Superior en Soporte de
 - **Automatización y Scripting**: Python, PowerShell, Bash (básico)
 - **Redes y Seguridad**: Configuración de redes LAN/WiFi, firewalls (Unifi, Fortigate), RADIUS, VPN
 - **Monitoreo y Backups**: Supervisión de rendimiento, políticas de respaldo y restauración
+- **Electronica**: Programacion de microcontroladores, diseño de esquematicos y PCB
 
 ---
 
